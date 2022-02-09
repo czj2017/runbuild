@@ -1,0 +1,19 @@
+{
+  "name": "zsbuild",
+  "version": "1.0.0",
+  "description": "packagedAndPost",
+  "main": "index.js",
+  "bin": {
+    "czj": "./index.js"
+  },
+  "author": "chuzhaojie",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^10.0.0",
+    "ftp": "^0.3.10",
+    "inquirer": "^8.1.2",
+    "ora": "5.4.1",
+    "ssh2-sftp-client": "^7.0.4"
+  }
+}
